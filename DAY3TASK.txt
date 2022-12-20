@@ -1,0 +1,63 @@
+Difference between Go and Java:
+
+1.	Go is a procedural and concurrent programing language with handful of libraries whereas java is an object-oriented programming language with many more libraries.
+2.	Go does not support classes with constructors and deconstructos while java supports them.
+3.	Go is away from semicolons at the end of lines and does not require parenthesis and brackets whereas java uses them in the code.
+4.	Go does not contain while and do-while statements as java
+5.	Go does not use any virtual machine for compiling the code as java uses the Java Virtual Machine (JVM). Therefore, Go surpasses java in performance.
+6.	Go does not provide exception handling instead it used errors. Java supports exception handling.
+7.	Go language programs are much more compact than java language programs.
+8.	Go does not support implicit type conversion as java supports.
+
+
+Difference between Go and Python:
+
+1.	Go is a statistically typed language where python is the dynamically typed language.
+2.	Go uses compiler, Python uses interpreter.
+3.	Go supports concurrency, python does not contain any inbuilt concurrency mechanism.
+4.	Go is better than python in performance as python takes longer time to convert the code.
+5.	As Go is a strictly compiled language, It takes lot of time to write large code whereas python can minimizes it by writing few lines of code.
+6.	Go lacks the generic functions which allows us to minimizes the footprint of functions. So it is lack of code reusability.
+
+Difference between uint and int:
+
+Int stands for signed integer and uint stands for unsigned integer.
+The first byte is used for sign (+ or - ) for int.
+There is no specific byte for uint. 
+The limits for uint and int are :
+Uint : 0 to 4294967295
+Int : -2147483648 to 2147483647
+
+
+Advantages and Disadvantages of Go:
+
+Advantages:
+1.	It is fast.
+2.	It is easy to learn and well scaled.
+3.	Comes with built-in  testing tool.
+4.	Compiled directly into machine code.
+5.	Open source by nature.
+
+
+Disadvantages :
+1.	A young language, so its still developing.
+2.	Error handling isn’t perfect.
+3.	Absence of manual memory management and lack of it lead to overhead of garbage collection.
+4.	As it does not have virtual machine, it is time consuming.
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
