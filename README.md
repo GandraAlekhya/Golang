@@ -4,5 +4,10 @@ Installed latest versions of git and go.</br>
 Installed Docker.</br>
 Practiced git commands and executed first go program.</br>
 
+**DAY 2**</br>
+Worked on types, variables, constants, scope and typecasting.</br>
+Prepared a document listing the differences between Go and java, Go and python, int and uint.</br>
+Also listed the advantages and disadvantages of Go.</br>
+
 
 
