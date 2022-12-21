@@ -13,5 +13,9 @@ Worked on types, variables, constants, scope and typecasting.</br>
 Prepared a document listing the differences between Go and java, Go and python, int and uint.</br>
 Also listed the advantages and disadvantages of Go.</br>
 
+**DAY 4**</br>
+Worked on packages and function.</br>
+Worked on visibility of variables.</br>
+
 
 
