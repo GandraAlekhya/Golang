@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"golang/Arithmetic"
+	"golang1/Arithmetic"
 )
 
 func main() {

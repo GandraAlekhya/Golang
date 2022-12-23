@@ -1,9 +1,8 @@
 package main
 
 import (
+	"CALCULATOR/Arithmetic"
 	"fmt"
-
-	"Assignments/Arithmetic"
 )
 
 func main() {
