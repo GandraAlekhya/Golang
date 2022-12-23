@@ -16,6 +16,13 @@ Also listed the advantages and disadvantages of Go.</br>
 **DAY 4**</br>
 Worked on packages and function.</br>
 Worked on visibility of variables.</br>
+Donw with Assignment3(Calculator)
 
+**DAY 5**</br>
+Worked on basics of arrays and slices </br>
+
+**DAY 6**</br>
+Worked on pointers concept </br>
+Worked on Assignemnt4(arrays,slices and pointers)</br>
 
 
