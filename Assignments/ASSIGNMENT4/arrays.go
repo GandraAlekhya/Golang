@@ -26,7 +26,7 @@ func main() {
 	slice1 := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
 	fmt.Printf("The type of the array1 is %T\n", slice1)
 	//fmt.Println("Type is: ", reflect.ValueOf(slice1).Kind())
-
+	
 	/* 3.use SLICING to create the following new slices which are then printed:
 	● [42 43 44 45 46]
 	● [47 48 49 50 51]
