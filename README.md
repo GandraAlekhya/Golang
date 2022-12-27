@@ -25,4 +25,8 @@ Worked on basics of arrays and slices </br>
 Worked on pointers concept </br>
 Worked on Assignemnt4(arrays,slices and pointers)</br>
 
+**DAY 7**</br>
+Worked on maps and slices(cap and len) concept </br>
+
+
 
