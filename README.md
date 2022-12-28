@@ -28,5 +28,8 @@ Worked on Assignemnt4(arrays,slices and pointers)</br>
 **DAY 7**</br>
 Worked on maps and slices(cap and len) concept </br>
 
+**DAY 8**</br>
+Worked on loops and assignment5(for loop)
+
 
 
