@@ -31,5 +31,17 @@ Worked on maps and slices(cap and len) concept </br>
 **DAY 8**</br>
 Worked on loops and assignment5(for loop)
 
+**DAY 8**</br>
+Discussed struct topic with few examples.
+
+**DAY 8**</br>
+Worked on methods(receiver input)
+
+**DAY 8**</br>
+Worked on intrfaces and asssignment6
+
+
+
+
 
 
