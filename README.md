@@ -40,6 +40,9 @@ Worked on methods(receiver input)
 **DAY 11**</br>
 Worked on intrfaces and asssignment6
 
+**DAY 12**</br>
+Demo class on AWS and its services.
+
 
 
 
