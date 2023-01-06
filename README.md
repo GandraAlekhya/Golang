@@ -43,6 +43,9 @@ Worked on intrfaces and asssignment6
 **DAY 12**</br>
 Demo class on AWS and its services.
 
+**DAY 13**</br>
+learnt new topic about go routines.
+
 
 
 
